@@ -88,6 +88,7 @@ Built by the Ionic Framework team.
 
 - [Storybook](https://github.com/storybookjs/storybook) - UI component dev, test and documentation.
 - [Stencil-eslint-plugin](https://github.com/ionic-team/stencil-eslint) - ESLint rules specific to Stencil JS projects.
+- [React, Angular, Vue - 2 Stencil](https://fdiskas.github.io/2stenciljs/) - a converter that converts components to stencil.
 
 ### Stencil Styling
 
